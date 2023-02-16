@@ -51,10 +51,13 @@
             <label for="no-fish">No Fish</label><br>
             <input type="checkbox" id="nut-free" name="dietary-restrictions" value="nut-free">
             <label for="nut-free">Nut Free</label><br>
-            <input type="submit" value="Submit">
+            <input type="button" value="Save Preferences">
           </div>
-        </fieldset>
-      </form>
-    </div>
+          <div id="search_page">
+          <button id="searchButton">Search</button>
+        <div>
+            
+        <br>
+        <div id="results">
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   </body>
